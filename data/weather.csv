@@ -1,0 +1,10 @@
+location,year,avg_temp (°C),rainfall (mm),humidity (%)
+Nuwara Eliya,2020,18.5,2100,85
+Nuwara Eliya,2021,18.8,2050,84
+Nuwara Eliya,2022,18.6,2150,86
+Kandy,2020,21.2,1900,80
+Kandy,2021,21.5,1850,81
+Kandy,2022,21.3,1950,79
+Galle,2020,25.0,2500,88
+Galle,2021,25.3,2550,87
+Galle,2022,25.1,2450,89

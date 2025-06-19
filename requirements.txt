@@ -1,0 +1,8 @@
+# Crop Yield Prediction App Requirements
+streamlit
+joblib
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
