@@ -61,23 +61,31 @@ The app will open in your default web browser.
 
 ## 🌟 Example
 
-![App Screenshot](https://github.com/nadee2k/crop_yield_prediction/raw/main/demo/screenshot.png)
+### App Screenshot
+
+![App Screenshot](demo/Screenshot_1.jpeg)
+
+![App Screenshot](demo/Screenshot_2.jpeg)
+*Above: Example of the crop yield prediction interface and results.*
 
 ---
 
 ## 🛠️ Project Structure
 
+
 ```
 crop_yield_prediction/
 │
-├── app.py               # Streamlit application
-├── model/               # Trained ML models
-├── data/                # Sample data files
-├── utils.py             # Helper functions
-├── requirements.txt     # Python dependencies
-├── README.md            # This file
-└── demo/                # Demo GIFs and screenshots
+├── model/           # Trained ML models
+├── data/            # Sample data files
+├── .venv/           # Virtual environment (optional)
+├── notebooks/       # Jupyter notebooks for experiments
+├── app.py           # Streamlit application
+├── requirements.txt # Python dependencies
+├── README.md        # Project documentation
+└── demo/            # Demo screenshots
 ```
+
 
 ---
 
